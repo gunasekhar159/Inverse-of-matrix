@@ -22,9 +22,9 @@ Step 8: Declare a variable inverse, using numpy module's linalg and inv function
 
 Step9: Print the value of the inverse
 
-PROGRAM:
-#Developed By: M.GUNASEKHAR
-#Ref No:21004955
+### PROGRAM:
+### devoloped By: M.GUNASEKHAR
+### Ref No:21004955
 ```
 import numpy as np
 l1,l2 = [],[]
@@ -42,3 +42,6 @@ print (Inverse)
 ```
 ### OUTPUT:
 ![OUTPUT](output.png)
+### RESULT:
+
+Therefore the program is successfully executed to find the inverse of nested arrays using numpy module.
